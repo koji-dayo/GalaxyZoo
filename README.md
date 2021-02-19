@@ -16,3 +16,7 @@ The parameters are ra, dec, scale.
 
 ## MLP
 
+| K≥5 | K≥10 | K≥20 |
+|-----|------|------|
+| 97% | 98%  | 98%  |
+
